@@ -26,7 +26,7 @@ public class MergeSort {
 		int N = ((endIndex + 1) - startIndex);
 		int counter = 0;
 		int[] tempArr = new int[N];
-		int i = startIndex, j = midIndex+1, k = endIndex;
+		int i = startIndex, j = midIndex+1;
 		while (i <= midIndex && j <= endIndex) {
 			if (arr[i] > arr[j]) {
 				tempArr[counter] = arr[j];

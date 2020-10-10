@@ -1,8 +1,12 @@
-/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/GetKthSmallestElement.java
-/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/insertionsort/InsertionSort.java
+/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/SegregateThreeTypesOfArrays.java
 /home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/mergesort/MergeSort.java
 /home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/partition/NaivePartitioning.java
+/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/GetKthSmallestElement.java
+/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/insertionsort/InsertionSort.java
+/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/ChocolateDistributionProblem.java
 /home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/countinversioninarray/CountInversionInAnArray.java
+/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/cyclesort/CycleSort.java
+/home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/SegregateTwoTypesOfArrays.java
 /home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/intersection/IntersectionPoint.java
 /home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/partition/HoarePartition.java
 /home/abhishek/MyCodeRepository/GitHub/DaVinciCode/src/main/java/com/abhishek/algorithms/davincicode/sorting/union/UnionOfTwoArrays.java
