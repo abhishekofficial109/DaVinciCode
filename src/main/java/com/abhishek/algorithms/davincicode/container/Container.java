@@ -4,30 +4,30 @@ import java.util.Iterator;
 
 public interface Container<T> extends Iterator<T> {
 
-  boolean add(T t);
+    boolean add(T t);
 
-  boolean addAll(Container<? extends T> c);
+    boolean addAll(Container<? extends T> c);
 
-  void clear();
+    void clear();
 
-  boolean contains(Object o);
+    boolean contains(Object o);
 
-  boolean containsAll(Object o);
+    boolean containsAll(Object o);
 
-  Iterator<T> iterator();
+    Iterator<T> iterator();
 
-  boolean remove(Object o);
+    boolean remove(Object o);
 
-  boolean removeAll(Container<? extends T> c);
+    boolean removeAll(Container<? extends T> c);
 
-  boolean retainAll(Container<?> c);
+    boolean retainAll(Container<?> c);
 
-  int size();
+    int size();
 
-  boolean isEmpty();
+    boolean isEmpty();
 
-  Object[] toArray();
+    Object[] toArray();
 
-  <T> T[] toArray(T[] t);
+    <T> T[] toArray(T[] t);
 
 }
